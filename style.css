@@ -12,16 +12,16 @@ li {
 
 li a {
     display: block;
-    color: rgb(76, 3, 3);
+    color: #034a25;
     text-align: center;
-    font-size: clamp(0.5rem, 3vw, 1.4rem);
+    font-size: clamp(0.7rem, 4vw, 1.8rem);
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
 }
 
 li a:hover {
-    background-color: #3c3c3c;
+    background-color: #a5a5a5;
 }
 
 .flexContainer {
